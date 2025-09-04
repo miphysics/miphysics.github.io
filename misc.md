@@ -7,7 +7,6 @@
 - _March 2022_: [Non-equilibrium scalar field dynamics starting from Fock States: Absence of thermalization in one dimensional phonons coupled to fermions](https://drive.google.com/file/d/1sMcQAZuBhNSPbCYhrtVdDDSYygqgwQIK/view?usp=sharing), in APS March Meeting 2022 (Virtual)
 - _March 2021_: [Non-equilibrium Dynamics of Fermions: Initial Correlations as Interaction Vertices](https://drive.google.com/file/d/1MbGqak41WHfOD2lknyUr6MtYSDWwuozZ/view?usp=sharing), in APS March Meeting 2021 (Online)
 
-
 ## Posters
 - _August 2025_: [Cavity-indiced Eliashberg effect: SC vs CDW](https://drive.google.com/file/d/1HCCLuLcJWxhowT9xklyEczMwkf5_YOrO/view?usp=drive_link) in "New frontiers in out-of-equilibrium quantum many-body dynamics" at MPIPKS, Dresden, Germany
 - _February 2025_: [Non-thermal cavity control of order in electronic system](https://drive.google.com/file/d/1ibmKipCTLOdZEo8SNDCICvC_JSaAUBBO/view?usp=drive_link) in "Quantum simulation with engineered dissipation" at Universitätszentrum Obergurgl (Universität Innsbruck), Austria
@@ -16,6 +15,7 @@
 - _July 2023_: [Non-equilibrium dynamics of bosons with dipole symmetry: Emergence of new symmetry-broken steady states](https://drive.google.com/file/d/1omQO3pCj6J_iRlRgsw9S3-D7p7lkZHZh/view?usp=sharing) in "Non-equilibrium dynamics of correlated systems" at HRI, Allahabad, India
 - _December 2021_: [Non-equilibrium scalar field dynamics starting from Fock States: Absence of thermalization in one dimensional phonons coupled to fermions](https://drive.google.com/file/d/1LfSSGvydjGu9nbwjZFJnMAMPNmk9fZc2/view?usp=sharing) at QMAT 2021 (online)
 
+\
 # Workshops attended
 ---
 - [New frontiers in out-of-equilibrium quantum many-body dynamics](https://www.pks.mpg.de/qudyn25) at MPIPKS, Dresden, Germany (Aug 11-15, 2025)
