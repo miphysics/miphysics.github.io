@@ -2,13 +2,13 @@
 ---
 Download [CV](https://drive.google.com/file/d/1sGqz4Fa5acIBPvfiZKYiyNZbo3RGxluv/view?usp=drive_link).
 ## Employment
-- Apr 2025 - present: **Postdoctoral researcher** at the _University of Augsburg, Augsburg_, Germany 
-- Oct 2023 - Mar 2025: **Postdoctoral researcher** at the _Max Planck Institute for the Physics of Complex Systems_, Dresden, Germany
+- April 2025 - present: **Postdoctoral researcher** at the _University of Augsburg_, Augsburg, Germany 
+- October 2023 - March 2025: **Postdoctoral researcher** at the _Max Planck Institute for the Physics of Complex Systems_, Dresden, Germany
 
 ## Education
-- 2019-2023: **Doctor of Philosophy** (Physics), _Tata Institute of Fundamental Research_, Mumbai, India [Thesis: [ Non-equilibrium Dynamics of Bosons and Fermions from Athermal Fock  States](https://drive.google.com/file/d/1s8qKV03teZyWtI6WsVnuPqxpTmsf3go1/view)]
-- 2016-2019: **Master of Science** (Physics), _Tata Institute of Fundamental Research_, Mumbai, India (Grade: **81.4%**, 1st in the class)
-- 2013-2016: **Bachelor of Science** (Physics), _St. Xavier's College_, Kolkata, India (Grade: **88.8%**, 1st in the class)
+- 2019 - 2023: **Doctor of Philosophy** (Physics), _Tata Institute of Fundamental Research_, Mumbai, India [Thesis: [ Non-equilibrium Dynamics of Bosons and Fermions from Athermal Fock  States](https://drive.google.com/file/d/1s8qKV03teZyWtI6WsVnuPqxpTmsf3go1/view)]
+- 2016 - 2019: **Master of Science** (Physics), _Tata Institute of Fundamental Research_, Mumbai, India (Grade: **81.4%**, 1st in the class)
+- 2013 - 2016: **Bachelor of Science** (Physics), _St. Xavier's College_, Kolkata, India (Grade: **88.8%**, 1st in the class)
 
 ## Distinctions
 - CSIR-UGC NET (June, 2017) Physical Sciences: Rank-1 [National level test for award of Junior Research Fellowship and eligibility for Lectureship]
