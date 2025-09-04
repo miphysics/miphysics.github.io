@@ -1,3 +1,1 @@
-layout: page
-title: "About"
-permalink: https://miphysics.github.io/
+I am a person.
