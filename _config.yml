@@ -4,8 +4,8 @@ theme: jekyll-theme-minimal
 #  - jekyll-remote-theme
 title: Md Mursalin Islam
 description: md.islam@uni-a.de
-logo: /assets/img/logo.png
+#logo: /assets/img/logo.png
 # Hide GitHub footer links
-show_downloads: true
-github:
-  is_project_page: false
+#show_downloads: true
+#github:
+ # is_project_page: false
