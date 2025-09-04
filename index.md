@@ -11,11 +11,11 @@ My research concerns non-equilibrium phenomena in quantum many-body systems.
 - PRX
 
 # Contact and Social
-Room 4B 444,
-Universitätsstraße 1 (Physik Süd), 
-86159 Augsburg, Germany
-email: md.islam@uni-a.de
-[LinkedIn](www.linkedin.com/in/mursalin-islam-physics) | [ResearchGate](https://www.researchgate.net/profile/Md-Mursalin-Islam)
+Room 4B 444,\
+Universitätsstraße 1 (Physik Süd),\ 
+86159 Augsburg, Germany\
+email: md.islam@uni-a.de\
+[LinkedIn](https://www.linkedin.com/in/mursalin-islam-physics) | [ResearchGate](https://www.researchgate.net/profile/Md-Mursalin-Islam)\
 
 
 
