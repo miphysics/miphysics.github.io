@@ -30,8 +30,8 @@
             <a href="{{ '/publications' | relative_url }}">Publications</a> |
             <a href="{{ '/misc' | relative_url }}">Presentations</a> 
           </nav>
-          <!-- Dark/Light toggle -->
-          <button id="toggle-dark" style="margin-top:10px;">🌙 Toggle Dark/Light</button>
+          <!-- Dark/Light toggle
+          <button id="toggle-dark" style="margin-top:10px;">🌙 Toggle Dark/Light</button> -->
       </header>
 
       <section>
@@ -55,7 +55,7 @@
          <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}.</p>
       </footer>
     </div>
-    <script>
+    <!---<script>
       const toggle = document.getElementById('toggle-dark');
       const body = document.body;
 
@@ -69,6 +69,6 @@
       body.classList.toggle('dark-mode');
       localStorage.setItem('dark-mode', body.classList.contains('dark-mode'));
       });
-    </script>
+    </script>--->
   </body>
 </html>
