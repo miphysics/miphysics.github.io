@@ -5,8 +5,13 @@ I am a postdoctoral researcher at the University of Augsburg in the group of [Pr
 My research concerns non-equilibrium phenomena in quantum many-body systems.
 
 # Publications
-
+- PRR
+- PRB
+- PRB
+- PRX
+- 
 # Contact and Social
+linedin 
 
 
 
