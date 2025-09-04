@@ -6,6 +6,10 @@
     <title>{{ page.title | default: site.title }}</title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
   </head>
   <body>
     <div class="wrapper">
@@ -32,8 +36,18 @@
         {{ content }}
       </section>
 
+      <!-- Footer -->
       <footer>
-        <!-- Footer area, you can customize here -->
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+        <p>
+          <!-- Social icons -->
+          <a href="https://www.linkedin.com/in/mursalin-islam-physics/" target="_blank">
+            <i class="fab fa-linkedin fa-lg"></i>
+          </a>
+          <a href="https://www.researchgate.net/profile/Md-Mursalin-Islam" target="_blank">
+            <i class="fab fa-researchgate fa-lg"></i>
+          </a>
+        </p>
       </footer>
     </div>
   </body>
