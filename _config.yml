@@ -4,6 +4,7 @@ plugins:
   - jekyll-remote-theme
 title: Md Mursalin Islam
 description: md.islam@uni-a.de
+logo: /assets/img/logo.png
 # Hide GitHub footer links
 show_downloads: false
 github:
