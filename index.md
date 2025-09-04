@@ -8,14 +8,15 @@ My research concerns non-equilibrium phenomena in quantum many-body systems.
 - See my [list of publications](https://miphysics.github.io/publications) on [ORCID](https://orcid.org/0000-0002-0992-5531) \| [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=K5gZKkQAAAAJ) \| [ arXiv](https://arxiv.org/a/islam_m_4.html).
 - See my [presentations](https://miphysics.github.io/misc).
 
-# Contact and Social
+# Contact
 Room 4B 444,\
 Universitätsstraße 1 (Physik Süd), 
 86159 Augsburg, Germany\
 email: md.islam@uni-a.de\
-[LinkedIn](https://www.linkedin.com/in/mursalin-islam-physics) | [ResearchGate](https://www.researchgate.net/profile/Md-Mursalin-Islam)
+<!---
+[LinkedIn](https://www.linkedin.com/in/mursalin-islam-physics) | [ResearchGate](https://www.researchgate.net/profile/Md-Mursalin-Islam)--->
 
-t9
+t10
 
 
 
