@@ -3,3 +3,9 @@ I am a postdoctoral researcher at the University of Augsburg in the group of [Pr
 
 # Research 
 My research concerns non-equilibrium phenomena in quantum many-body systems.
+
+
+layout: page
+title: "About"
+permalink: https://miphysics.github.io/about
+
