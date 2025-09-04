@@ -8,7 +8,7 @@ We study ...
 **Relevent Publications**
 - R. Flores-Calderón, _Md Mursalin Islam_, Michele Pini and Francesco Piazza, [Phys. Rev. Research 7, 013073 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073)
   
-## Non-equilibrium dynamics of bosons from non-thermal initial states 
+## Dynamics of bosons from non-thermal initial states 
 We study ...
 **Relevent Publications**
 - _Md Mursalin Islam_, K. Sengupta and Rajdeep Sensarma, [Phys. Rev. B 108, 214314 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.214314)
