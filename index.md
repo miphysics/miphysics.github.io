@@ -3,7 +3,7 @@ I am a postdoctoral researcher at the University of Augsburg in the group of [Pr
 - See a brief [CV](https://miphysics.github.io/cv).
 
 # Research 
-My research concerns non-equilibrium phenomena in quantum many-body systems. It ranges from studies of the dynamics of quantum systems starting from non-thermal initial states to controlling material properties via cavity-induced non-equilibrium steady states.
+My research concerns non-equilibrium phenomena in quantum many-body systems. It ranges from studies of the dynamics of quantum systems starting from non-thermal initial states to controlling material properties via cavity-induced non-equilibrium steady states. Non-equilibrium field theory is my primary method of investigation.
 - Learn more about my [research](https://miphysics.github.io/research).
 - See my [list of publications](https://miphysics.github.io/publications) on [ORCID](https://orcid.org/0000-0002-0992-5531) \| [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=K5gZKkQAAAAJ) \| [ arXiv](https://arxiv.org/a/islam_m_4.html).
 <!--- - See my [presentations](https://miphysics.github.io/misc).--->
