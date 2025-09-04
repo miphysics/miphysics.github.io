@@ -1,3 +1,3 @@
 layout: page
 title: "About"
-permalink: https://miphysics.github.io/about/
+permalink: https://miphysics.github.io/
