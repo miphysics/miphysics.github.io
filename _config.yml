@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Md Mursalin Islam
 description: md.islam@uni-a.de
-is_project_page: false
+github:
+  is_project_page: false
