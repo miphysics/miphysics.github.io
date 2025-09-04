@@ -1,1 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
 
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h1>
+        <p>{{ site.description }}</p>
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+
+      <footer>
+        <!-- Removed "View my GitHub profile" link -->
+        <!-- You can add your own footer here if you like -->
+      </footer>
+    </div>
+  </body>
+</html>
