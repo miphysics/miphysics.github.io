@@ -24,3 +24,9 @@ Download [CV](https://drive.google.com/file/d/1sGqz4Fa5acIBPvfiZKYiyNZbo3RGxluv/
 - Monte-Carlo method
 - Scientific computing
 - Programming languages: C, C++, Python, Julia
+
+## Languages
+- Bengali (Native)
+- English (Fluent)
+- Hindi (Fluent)
+- German (Basic)
