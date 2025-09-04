@@ -13,5 +13,5 @@ _Relevent Publications_:
 We study ...
 \
 _Relevent Publications_:
-- **MMI**,, K. Sengupta and Rajdeep Sensarma, [Phys. Rev. B 108, 214314 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.214314)
+- **MMI**, K. Sengupta and Rajdeep Sensarma, [Phys. Rev. B 108, 214314 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.214314)
 - **MMI** and Rajdeep Sensarma, [Phys. Rev. B 106, 024306 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.024306)
