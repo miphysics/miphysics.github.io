@@ -10,5 +10,5 @@
 
 ## Posters
 
-# Workshop attnded
+# Workshops attended
 ---
