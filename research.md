@@ -6,12 +6,12 @@ My research concerns non-equilibrium phenomena in quantum many-body systems.
 ## Cavity-control of quantum-materials
 We study ...
 \
-_Relevent Publications_:
+_Relevent publications_:
 - R. Flores-Calderón, **MMI**, Michele Pini and Francesco Piazza, [Phys. Rev. Research 7, 013073 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073)
   
 ## Dynamics of bosons from non-thermal initial states 
 We study ...
 \
-_Relevent Publications_:
+_Relevent publications_:
 - **MMI**, K. Sengupta and Rajdeep Sensarma, [Phys. Rev. B 108, 214314 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.214314)
 - **MMI** and Rajdeep Sensarma, [Phys. Rev. B 106, 024306 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.024306)
