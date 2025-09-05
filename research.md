@@ -12,7 +12,7 @@ In a system showing a spontaneous phase transition, the cavity can influence the
 
 _Relevent publications_:
 - R. Flores-Calderón, **MMI**, Michele Pini and Francesco Piazza, [Phys. Rev. Research 7, 013073 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073)
-- **MMI**, Michele Pini, R. Flores-Calderón and Francesco Piazza, arXiv2509.xxxxx
+- **MMI**, Michele Pini, R. Flores-Calderón and Francesco Piazza, arXiv:2509.xxxxx
   
 ## Dynamics of bosons from non-thermal initial states 
 Describing the dynamics of quantum many-body systems starting from non-thermal initial states is a daunting task. We developed a field-theoretic method to describe dynamics of scalar fields (which is used to describe bosonic excitations e.g. phonons, magnons, photons etc.) from non-thermal Fock states.\
