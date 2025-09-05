@@ -1,6 +1,6 @@
 # Research
 ---
-My research concerns non-equilibrium phenomena in quantum many-body systems.
+My research concerns non-equilibrium phenomena in quantum many-body systems. It ranges from studies of the dynamics of quantum systems starting from non-thermal initial states to controlling material properties via cavity-induced non-equilibrium steady states. I use Swchinger-Keldysh (non-equilibrium) field theory as my primary tool of investigation along with numerical methods.
 <!--See my [list of publications](https://miphysics.github.io/publications) on [ORCID](https://orcid.org/0000-0002-0992-5531) | [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=K5gZKkQAAAAJ) | [arXiv](https://arxiv.org/a/islam_m_4.html).-->
 
 ## Cavity-control of quantum-materials
