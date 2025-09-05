@@ -5,10 +5,9 @@ My research concerns non-equilibrium phenomena in quantum many-body systems. It 
 
 ## Cavity-control of quantum-materials
 <!-- HTML inside Markdown -->
-<img src="\assets\img\setup0.png" width="200">
+<img src="\assets\img\setup0.png" width="200">\
 Cavity-quantum-materials have emerged as a platform to study non-thermal many-body physics. Putting the electronic system inside the cavity mirrors provides us with the noninavsive control of the collective electron behavior. We show that in such a setting the electrons can reach a steady state where the thermal-symmetry of the distribution function is broken. Further, the nature of the non-equilibrium steady state can be controlled just by changing the fundamental cavity frequency which is inversely proportinal to the distance between the cavity mirrors.\
 In a system showing a spontaneous phase transition, the cavity can influence the nature of the transition immensely due to the non-thermal nature of the distribution function. In this context, the non-thermal enhancement of the superconducting (SC) gap, known as 'Eliashberg effect' has been studied previously. We extended the analysis to the case of charge-density-wave (CDW). We show that while the order parameters for SC and CDW obey the same gap-equation at thermal equilibrium, out-of-equilibrium (i.e. coupled to the cavity) they differ. For the SC case, we observe  a shift from continuous to first-order phase transition. In contrast, the CDW case, the phase diagram contains more features. Depending on the cavity frequency, both continuous and discontinuous transitions are possible. We also observe two distinct ordered phases, and a bistable region ending at a critical point.   
-\
 <!--![setup](\assets\img\setup0.png)-->
 _Relevent publications_:
 - R. Flores-Calderón, **MMI**, Michele Pini and Francesco Piazza, [Phys. Rev. Research 7, 013073 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073)
