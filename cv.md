@@ -31,6 +31,11 @@ Download [CV](https://drive.google.com/file/d/1sGqz4Fa5acIBPvfiZKYiyNZbo3RGxluv/
 - Hindi (Fluent)
 - German (Basic)
 
+## Other interests
+- Literature
+- [Chess](https://www.chess.com/member/mursachess)
+- [Photography](https://www.instagram.com/mursalin_100/)
+
 # Current and past affiliations
 <img src="\assets\img\unia_logo.png" width="100">
 <img src="\assets\img\mpipks_logo.png" width="80">
