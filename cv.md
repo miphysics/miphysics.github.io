@@ -32,6 +32,6 @@ Download [CV](https://drive.google.com/file/d/1sGqz4Fa5acIBPvfiZKYiyNZbo3RGxluv/
 - German (Basic)
 
 # Current and past affiliations
-<img src="\assets\img\uni_logo.svg" width="120">
-<img src="\assets\img\mpipks_logo.png" width="120">
+<img src="\assets\img\uni_logo.png" width="100">
+<img src="\assets\img\mpipks_logo.png" width="100">
 
