@@ -1,8 +1,8 @@
 # About
 ---
-<div style="text-align: justify"> 
-I am a postdoctoral researcher at the University of Augsburg in the group of [Prof. Francesco Piazza](https://www.uni-augsburg.de/en/fakultaet/mntf/physik/groups/theo3/team/francesco-piazza/). Before this I worked as a post-doc at Max Planck Institute for the Physics of Complex Systems, Dresden. I received my Ph.D. ([thesis](https://drive.google.com/file/d/1s8qKV03teZyWtI6WsVnuPqxpTmsf3go1/view)) in Physics from Tata Institute of Fundamental Research, Mumbai under the guidance of [Prof. Rajdeep Sensarma](https://sites.google.com/view/rsensarma/home). I work in the area of Theoretical Condensed Matter Physics and Quantum Optics. 
-</div>
+<p align="justify">
+I am a postdoctoral researcher at the University of Augsburg in the group of [Prof. Francesco Piazza](https://www.uni-augsburg.de/en/fakultaet/mntf/physik/groups/theo3/team/francesco-piazza/) <a href="https://www.uni-augsburg.de/en/fakultaet/mntf/physik/groups/theo3/team/francesco-piazza/">Prof. Francesco Piazza</a>. Before this I worked as a post-doc at Max Planck Institute for the Physics of Complex Systems, Dresden. I received my Ph.D. ([thesis](https://drive.google.com/file/d/1s8qKV03teZyWtI6WsVnuPqxpTmsf3go1/view)) in Physics from Tata Institute of Fundamental Research, Mumbai under the guidance of [Prof. Rajdeep Sensarma](https://sites.google.com/view/rsensarma/home). I work in the area of Theoretical Condensed Matter Physics and Quantum Optics. 
+</p>
 - See my [CV](https://miphysics.github.io/cv).
 
 # Research 
