@@ -1,6 +1,1 @@
-@import "{{ site.theme }}";  /* Load the Minimal theme */
 
-/* Custom class for justified text */
-.justify {
-  text-align: justify;
-}
