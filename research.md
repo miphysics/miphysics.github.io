@@ -17,6 +17,7 @@ In a system showing a spontaneous phase transition, the cavity can influence the
 _Relevent publications_:
 - R. Flores-Calderón, **MMI**, Michele Pini and Francesco Piazza, [Phys. Rev. Research 7, 013073 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073)
 - **MMI**, Michele Pini, R. Flores-Calderón and Francesco Piazza, arXiv:2509.xxxxx
+
 ---
 ## Dynamics of bosons from non-thermal initial states 
 <p align="justify">
@@ -29,4 +30,5 @@ kind of phases: a condensed phase where both charge and dipole-moment are not co
 _Relevent publications_:
 - **MMI**, K. Sengupta and Rajdeep Sensarma, [Phys. Rev. B 108, 214314 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.214314)
 - **MMI** and Rajdeep Sensarma, [Phys. Rev. B 106, 024306 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.024306)
+
 ---
