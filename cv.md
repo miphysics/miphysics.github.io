@@ -34,4 +34,6 @@ Download [CV](https://drive.google.com/file/d/1sGqz4Fa5acIBPvfiZKYiyNZbo3RGxluv/
 # Current and past affiliations
 <img src="\assets\img\uni_logo.png" width="100">
 <img src="\assets\img\mpipks_logo.png" width="100">
+<img src="\assets\img\tifr_logo.png" width="100">
+<img src="\assets\img\sxccal_logo.png" width="100">
 
