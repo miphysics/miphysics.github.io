@@ -15,8 +15,8 @@ In a system showing a spontaneous phase transition, the cavity can influence the
 </p>
 
 _Relevent publications_:
-- R. Flores-Calderón, **MMI**, Michele Pini and Francesco Piazza, [Phys. Rev. Research 7, 013073 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073)
 - **MMI**, Michele Pini, R. Flores-Calderón and Francesco Piazza, arXiv:2509.xxxxx
+- R. Flores-Calderón, **MMI**, Michele Pini and Francesco Piazza, [Phys. Rev. Research 7, 013073 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073)
 
 ---
 ## Dynamics of bosons from non-thermal initial states 
