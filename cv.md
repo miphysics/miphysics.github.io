@@ -30,3 +30,6 @@ Download [CV](https://drive.google.com/file/d/1sGqz4Fa5acIBPvfiZKYiyNZbo3RGxluv/
 - English (Fluent)
 - Hindi (Fluent)
 - German (Basic)
+
+# Current and past affiliations
+
