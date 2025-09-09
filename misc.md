@@ -15,6 +15,7 @@
 - _July 2023_: [Non-equilibrium dynamics of bosons with dipole symmetry: Emergence of new symmetry-broken steady states](https://drive.google.com/file/d/1omQO3pCj6J_iRlRgsw9S3-D7p7lkZHZh/view?usp=sharing) in "Non-equilibrium dynamics of correlated systems" at HRI, Allahabad, India
 - _December 2021_: [Non-equilibrium scalar field dynamics starting from Fock States: Absence of thermalization in one dimensional phonons coupled to fermions](https://drive.google.com/file/d/1LfSSGvydjGu9nbwjZFJnMAMPNmk9fZc2/view?usp=sharing) at QMAT 2021 (online)
 
+---
 
 # Workshops attended
 ---
@@ -33,3 +34,5 @@
 - [Thermalization, MBL and Hydrodynamics](https://www.icts.res.in/program/hydrodynamics2019) at ICTS-TIFR, Bengaluru, India (Nov 11-29, 2019)
 - Topological Aspects of Quantum Matter at TIFR, Mumbai, India (Dec 17-20, 2018)
 - [Summer School on Collective Behaviour in Quantum Matter](https://indico.ictp.it/event/8331/) at ICTP, Trieste, Italy  (Aug 27- Sep 14, 2018)
+
+---
