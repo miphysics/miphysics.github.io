@@ -1,6 +1,6 @@
 # About me
 ---
-Download [CV](miphysics.github.io/assets/docs/CV_Mursalin.pdf).
+Download [CV](/assets/docs/CV_Mursalin.pdf).
 ## Employment
 - April 2025 - present: **Postdoctoral researcher** at the _University of Augsburg_, Augsburg, Germany 
 - October 2023 - March 2025: **Postdoctoral researcher** at the _Max Planck Institute for the Physics of Complex Systems_, Dresden, Germany
