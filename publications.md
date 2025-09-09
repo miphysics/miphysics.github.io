@@ -1,6 +1,6 @@
 # Publications
 ---
-See my [list of publications](https://miphysics.github.io/publications) on [ORCID](https://orcid.org/0000-0002-0992-5531) | [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=K5gZKkQAAAAJ) |[ arXiv](https://arxiv.org/a/islam_m_4.html).
+See my [list of publications](https://miphysics.github.io/publications) on <a href="https://orcid.org/0000-0002-0992-5531" target="_blank" rel="noopener noreferrer">ORCID</a> \|<a href="https://scholar.google.com.au/citations?hl=en&user=K5gZKkQAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar</a> \| <a href="https://arxiv.org/a/islam_m_4.html" target="_blank" rel="noopener noreferrer">arXiv</a>.
 
 - [Phys. Rev. Research 7, 013073 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073): **Nonthermal electron-photon steady states in open cavity quantum materials**, R. Flores-Calderón, _Md Mursalin Islam_, Michele Pini and Francesco Piazza
   
