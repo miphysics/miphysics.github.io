@@ -4,6 +4,7 @@
 I am a postdoctoral researcher at the University of Augsburg in the group of <a href="https://www.uni-augsburg.de/en/fakultaet/mntf/physik/groups/theo3/team/francesco-piazza/" target="_blank" rel="noopener noreferrer">Prof. Francesco Piazza</a>. Before this I worked as a post-doc at Max Planck Institute for the Physics of Complex Systems, Dresden. I received my Ph.D. (<a href="https://drive.google.com/file/d/1s8qKV03teZyWtI6WsVnuPqxpTmsf3go1/view" target="_blank" rel="noopener noreferrer">thesis</a>) in Physics from Tata Institute of Fundamental Research, Mumbai under the guidance of <a href="https://sites.google.com/view/rsensarma/home" target="_blank" rel="noopener noreferrer">Prof. Rajdeep Sensarma</a>. I work in the area of Theoretical Condensed Matter Physics and Quantum Optics. 
 </p>
 - See my [CV](https://miphysics.github.io/cv).
+
 ---
 
 # Research 
@@ -13,6 +14,7 @@ My research concerns non-equilibrium phenomena in quantum many-body systems. It 
 </p>
 - Learn more about my [research](https://miphysics.github.io/research).
 - See my [list of publications](https://miphysics.github.io/publications) on [ORCID](https://orcid.org/0000-0002-0992-5531) \| [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=K5gZKkQAAAAJ) \| [ arXiv](https://arxiv.org/a/islam_m_4.html).
+
 ---
 
 # Contact
