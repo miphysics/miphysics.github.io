@@ -37,13 +37,23 @@ Download [CV](https://drive.google.com/file/d/1sGqz4Fa5acIBPvfiZKYiyNZbo3RGxluv/
 - [Photography](https://www.instagram.com/mursalin_100/)
 
 # Current and past affiliations
+<!--
 <img src="\assets\img\unia_logo.png" width="100">
 <img src="\assets\img\mpipks_logo.png" width="80">
 <img src="\assets\img\tifr_logo.png" width="100">
 <img src="\assets\img\sxccal_logo.png" width="80">
-[![MPIPKS](\assets\img\mpipks_logo.png)](https://www.pks.mpg.de/)
-<a href="https://pks.mpg.de">
-  <img src="\assets\img\mpipks_logo.png" width="100">
+-->
+<a href="https://www.uni-augsburg.de/en/" target="_blank" rel="noopener noreferrer">
+  <img src="\assets\img\unia_logo.png" width="100">
+</a>
+<a href="https://pks.mpg.de" target="_blank" rel="noopener noreferrer">
+  <img src="\assets\img\mpipks_logo.png" width="80">
+</a>
+<a href="https://main.tifr.res.in" target="_blank" rel="noopener noreferrer">
+  <img src="\assets\img\tifr_logo.png" width="100">
+</a>
+<a href="https://www.sxccal.edu" target="_blank" rel="noopener noreferrer">
+  <img src="\assets\img\sxccal_logo.png" width="80">
 </a>
 
 
