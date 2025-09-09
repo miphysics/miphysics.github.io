@@ -16,7 +16,7 @@ In a system showing a spontaneous phase transition, the cavity can influence the
 
 _Relevent publications_:
 - **MMI**, Michele Pini, R. Flores-Calderón and Francesco Piazza, arXiv:2509.xxxxx
-- R. Flores-Calderón, **MMI**, Michele Pini and Francesco Piazza, [Phys. Rev. Research 7, 013073 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073)
+- R. Flores-Calderón, **MMI**, Michele Pini and Francesco Piazza, <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073" target="_blank" rel="noopener noreferrer">Phys. Rev. Research 7, 013073 (2025)</a>
 
 ---
 ## Dynamics of bosons from non-thermal initial states 
@@ -28,7 +28,7 @@ kind of phases: a condensed phase where both charge and dipole-moment are not co
 </p>
 
 _Relevent publications_:
-- **MMI**, K. Sengupta and Rajdeep Sensarma, [Phys. Rev. B 108, 214314 (2023)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.214314)
-- **MMI** and Rajdeep Sensarma, [Phys. Rev. B 106, 024306 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.024306)
+- **MMI**, K. Sengupta and Rajdeep Sensarma, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.214314" target="_blank" rel="noopener noreferrer">Phys. Rev. B 108, 214314 (2023)</a>
+- **MMI** and Rajdeep Sensarma, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.024306" target="_blank" rel="noopener noreferrer">Phys. Rev. B 106, 024306 (2022)</a>
 
 ---
