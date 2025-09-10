@@ -14,3 +14,5 @@ See my [list of publications](https://miphysics.github.io/publications) on <a hr
 
 - <a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.021058" target="_blank" rel="noopener noreferrer">Phys. Rev. X 12, 021058 (2022)</a>: **Dulmage-Mendelsohn percolation: Geometry of maximally-packed dimer models and topologically-protected zero modes on diluted bipartite lattices**, Ritesh Bhola, Sounak Biswas, _Md Mursalin Islam_ and Kedar Damle
 
+---
+
