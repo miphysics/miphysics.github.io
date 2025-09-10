@@ -15,8 +15,8 @@ In a system showing a spontaneous phase transition, the cavity can influence the
 </p>
 
 _Relevent publications_:
-- **MMI**, Michele Pini, R. Flores-Calderón and Francesco Piazza, <a href="https://arxiv.org/abs/2509.07865" target="_blank" rel="noopener noreferrer">arXiv:2509.07865</a>
-- R. Flores-Calderón, **MMI**, Michele Pini and Francesco Piazza, <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073" target="_blank" rel="noopener noreferrer">Phys. Rev. Research 7, 013073 (2025)</a>
+- <a href="https://arxiv.org/abs/2509.07865" target="_blank" rel="noopener noreferrer">arXiv:2509.07865</a>: **Cavity-induced Eliashberg effect: superconductivity vs charge density wave**, _Md Mursalin Islam_, Michele Pini, R. Flores-Calderón and Francesco Piazza
+- <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073" target="_blank" rel="noopener noreferrer">Phys. Rev. Research 7, 013073 (2025)</a>: **Nonthermal electron-photon steady states in open cavity quantum materials**, R. Flores-Calderón, _Md Mursalin Islam_, Michele Pini and Francesco Piazza
 
 ---
 ## Dynamics of bosons from non-thermal initial states 
@@ -28,7 +28,9 @@ kind of phases: a condensed phase where both charge and dipole-moment are not co
 </p>
 
 _Relevent publications_:
-- **MMI**, K. Sengupta and Rajdeep Sensarma, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.214314" target="_blank" rel="noopener noreferrer">Phys. Rev. B 108, 214314 (2023)</a>
-- **MMI** and Rajdeep Sensarma, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.024306" target="_blank" rel="noopener noreferrer">Phys. Rev. B 106, 024306 (2022)</a>
+- <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.214314" target="_blank" rel="noopener noreferrer">Phys. Rev. B 108, 214314 (2023)</a>: **Non-equilibrium dynamics of bosons with dipole symmetry: Large N Keldysh approach**, _Md Mursalin Islam_, K. Sengupta and Rajdeep Sensarma
+- <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.024306" target="_blank" rel="noopener noreferrer">Phys. Rev. B 106, 024306 (2022)</a>: **Nonequilibrium scalar field dynamics starting from Fock states: Absence of thermalization in one-dimensional phonons coupled to fermions**, _Md Mursalin Islam_ and Rajdeep Sensarma
 
 ---
+
+
