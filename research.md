@@ -34,10 +34,13 @@ _Relevent publications_:
 ---
 
 # Teaching 
+---
 I worked as the teaching assistant of the following courses:
 
 - Exercises in theoretical physics for secondary school teacher candidates (Winter sem. 2025-26) at University of Augsburg [Instructor: Dr. Marcus Kollar]
 - Quantum Mechanics II (Spring sem. 2020) at TIFR, Mumbai [Instructor: Prof. Nilmani Mathur]
 - Statistical Physics I (Spring sem. 2019) at TIFR, Mumbai [Instructor: Prof. Kedar Damle]
 - Quantum Mechanics II (Spring sem. 2018) at TIFR, Mumbai [Instructor: Prof. Vikram Tripathi]
+
+---
 
