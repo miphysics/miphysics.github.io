@@ -15,7 +15,7 @@ In a system showing a spontaneous phase transition, the cavity can influence the
 </p>
 
 _Relevent publications_:
-- **MMI**, Michele Pini, R. Flores-Calderón and Francesco Piazza, arXiv:2509.xxxxx
+- **MMI**, Michele Pini, R. Flores-Calderón and Francesco Piazza, <a href="https://arxiv.org/abs/2509.07865" target="_blank" rel="noopener noreferrer">arXiv:2509.07865</a>
 - R. Flores-Calderón, **MMI**, Michele Pini and Francesco Piazza, <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073" target="_blank" rel="noopener noreferrer">Phys. Rev. Research 7, 013073 (2025)</a>
 
 ---
