@@ -15,8 +15,8 @@ In a system showing a spontaneous phase transition, the cavity can influence the
 </p>
 
 _Relevent publications_:
-- <a href="https://arxiv.org/abs/2509.07865" target="_blank" rel="noopener noreferrer">arXiv:2509.07865</a>: **Cavity-induced Eliashberg effect: superconductivity vs charge density wave**, _Md Mursalin Islam_, Michele Pini, R. Flores-Calderón and Francesco Piazza
-- <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073" target="_blank" rel="noopener noreferrer">Phys. Rev. Research 7, 013073 (2025)</a>: **Nonthermal electron-photon steady states in open cavity quantum materials**, R. Flores-Calderón, _Md Mursalin Islam_, Michele Pini and Francesco Piazza
+- <a href="https://arxiv.org/abs/2509.07865" target="_blank" rel="noopener noreferrer">arXiv:2509.07865</a>: Cavity-induced Eliashberg effect: superconductivity vs charge density wave, _Md Mursalin Islam_, Michele Pini, R. Flores-Calderón and Francesco Piazza
+- <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013073" target="_blank" rel="noopener noreferrer">Phys. Rev. Research 7, 013073 (2025)</a>: Nonthermal electron-photon steady states in open cavity quantum materials, R. Flores-Calderón, _Md Mursalin Islam_, Michele Pini and Francesco Piazza
 
 ---
 ## Dynamics of bosons from non-thermal initial states 
