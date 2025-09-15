@@ -33,9 +33,9 @@ Download <a href="/assets/docs/CV_Mursalin.pdf" target="_blank" rel="noopener no
 - German (Basic)
 
 ## Other interests
-- [Literature](/blog/bookrev.md)
-- [Chess](https://www.chess.com/member/mursachess)
-- [Photography](https://www.instagram.com/mursalin_100/)
+- <a href="/blog/bookrev.md" target="_blank" rel="noopener noreferrer">Literature</a>
+- <a href="https://www.chess.com/member/mursachess" target="_blank" rel="noopener noreferrer">Chess</a>
+- <a href="https://www.instagram.com/mursalin_100" target="_blank" rel="noopener noreferrer">Photography</a>
 
 ---
 # Current and past affiliations
