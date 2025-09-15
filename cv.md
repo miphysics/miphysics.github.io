@@ -33,7 +33,7 @@ Download <a href="/assets/docs/CV_Mursalin.pdf" target="_blank" rel="noopener no
 - German (Basic)
 
 ## Other interests
-- Literature
+- [Literature](/blog/bookrev.md)
 - [Chess](https://www.chess.com/member/mursachess)
 - [Photography](https://www.instagram.com/mursalin_100/)
 
