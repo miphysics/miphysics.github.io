@@ -3,7 +3,8 @@ theme: jekyll-theme-minimal
 #plugins:
  # - jekyll-remote-theme
 title: Md Mursalin Islam
-description: md.islam@uni-a.de
+#description: md.islam@uni-a.de
+description: <a href="mailto:md.islam@uni-a.de">md.islam@uni-a.de</a>
 #logo: /assets/img/logo.png
 # Hide GitHub footer links
 #show_downloads: true
