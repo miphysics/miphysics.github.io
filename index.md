@@ -23,6 +23,7 @@ Room 4B 444,\
 Universitätsstraße 1 (Physik Süd),\
 86159 Augsburg, Germany\
 Email: md.islam@uni-a.de
+Social: <a href="https://www.researchgate.net/profile/Md-Mursalin-Islam" target="_blank" rel="noopener noreferrer">ResearchGate</a> | <a href="https://www.linkedin.com/in/mursalin-islam-physics" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ---
 <!---
