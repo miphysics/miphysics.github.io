@@ -8,6 +8,7 @@
 - _March 2021_: <a href="https://drive.google.com/file/d/1MbGqak41WHfOD2lknyUr6MtYSDWwuozZ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Non-equilibrium Dynamics of Fermions: Initial Correlations as Interaction Vertices</a>, in APS March Meeting 2021 (Online)
 
 ## Posters
+- _December 2025_: <a href="https://drive.google.com/file/d/1OwyarNtQMJAPRWcor-9jNW8ZqbqCJtMS/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Cavity-indiced Eliashberg effect: SC vs CDW</a> in "Cavity Control: From Condensed Matter to Ultracold Atoms" at Physikzentrum, Bad Honnef, Germany
 - _August 2025_: <a href="https://drive.google.com/file/d/1HCCLuLcJWxhowT9xklyEczMwkf5_YOrO/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Cavity-indiced Eliashberg effect: SC vs CDW</a> in "New frontiers in out-of-equilibrium quantum many-body dynamics" at MPIPKS, Dresden, Germany
 - _February 2025_: <a href="https://drive.google.com/file/d/1ibmKipCTLOdZEo8SNDCICvC_JSaAUBBO/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Non-thermal cavity control of order in electronic system</a> in "Quantum simulation with engineered dissipation" at Universitätszentrum Obergurgl (Universität Innsbruck), Austria
 - _June 2024_: <a href="https://drive.google.com/file/d/1C5I8qFW1s_njiMCgy7h_T6ruk5PmjQnk/view?usp=sharing" target="_blank" rel="noopener noreferrer">Non-equilibrium dynamics of bosons with dipole symmetry: Emergence of new symmetry-broken steady states</a> in "Non-equilibrium Many-body Physics Beyond the Floquet Paradigm" at MPIPKS, Dresden, Germany
@@ -19,6 +20,7 @@
 
 # Workshops attended
 ---
+- <a href="https://www.we-heraeus-stiftung.de/veranstaltungen/cavity-control-from-condensed-matter-to-ultracold-atoms/main/" target="_blank" rel="noopener noreferrer">Cavity Control: From Condensed Matter to Ultracold Atoms</a> at Physikzentrum, Bad Honnef, Germany (Dec 14-18, 2025)
 - <a href="https://www.pks.mpg.de/qudyn25" target="_blank" rel="noopener noreferrer">New frontiers in out-of-equilibrium quantum many-body dynamics</a> at MPIPKS, Dresden, Germany (Aug 11-15, 2025)
 - <a href="https://quantummatter.at/program-2/" target="_blank" rel="noopener noreferrer">Quantum simulation with engineered dissipation</a> at Universitätszentrum Obergurgl (U. Innsbruck), Austria (Feb 16-22, 2025)
 - <a href="https://www.pks.mpg.de/nembf24" target="_blank" rel="noopener noreferrer">Non-equilibrium Many-body Physics Beyond the Floquet Paradigm</a> at MPIPKS, Dresden, Germany (Jun 24-28, 2024)
