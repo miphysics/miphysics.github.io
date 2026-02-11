@@ -23,7 +23,7 @@ Download <a href="/assets/docs/CV_Mursalin.pdf" target="_blank" rel="noopener no
 - Non-equilibrium field theory
 - Cavity QED
 - Monte-Carlo methods
-- Scientific computing
+- Scientific computation
 - Programming languages: C, C++, [Python](https://www.python.org/), [Julia](https://julialang.org/)
 - [QuTiP](https://qutip.org/index.html)
 
