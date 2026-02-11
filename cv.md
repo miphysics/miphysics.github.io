@@ -22,9 +22,10 @@ Download <a href="/assets/docs/CV_Mursalin.pdf" target="_blank" rel="noopener no
 ## Skills
 - Non-equilibrium field theory
 - Cavity QED
-- Monte-Carlo method
+- Monte-Carlo methods
 - Scientific computing
-- Programming languages: C, C++, Python, Julia
+- Programming languages: C, C++, [Python](https://www.python.org/), [Julia](https://julialang.org/)
+- [QuTiP](https://qutip.org/index.html)
 
 ## Languages
 - Bengali (Native)
