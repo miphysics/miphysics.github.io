@@ -21,6 +21,7 @@ Download <a href="/assets/docs/CV_Mursalin.pdf" target="_blank" rel="noopener no
 
 ## Skills
 - Non-equilibrium field theory
+- Condensed matter field theory
 - Cavity QED
 - Monte-Carlo methods
 - Scientific computation
