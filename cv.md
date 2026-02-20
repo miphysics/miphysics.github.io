@@ -25,8 +25,8 @@ Download <a href="/assets/docs/CV_Mursalin.pdf" target="_blank" rel="noopener no
 - Cavity QED
 - Monte-Carlo methods
 - Scientific computation
-- Programming languages: C, C++, [Python](https://www.python.org/), [Julia](https://julialang.org/)
-- [QuTiP](https://qutip.org/index.html)
+- Programming languages: C, C++, <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">Python</a>, <a href="https://julialang.org/" target="_blank" rel="noopener noreferrer">Julia</a>
+- <a href="https://qutip.org/index.html" target="_blank" rel="noopener noreferrer">QuTiP</a>
 
 ## Languages
 - Bengali (Native)
