@@ -22,6 +22,7 @@
 
 # Workshops attended
 ---
+- DPG Spring Meeting (Condensed Matter Section) at TU Dresden, Germany (Mar 08-13, 2026)
 - <a href="https://www.we-heraeus-stiftung.de/veranstaltungen/cavity-control-from-condensed-matter-to-ultracold-atoms/main/" target="_blank" rel="noopener noreferrer">Cavity Control: From Condensed Matter to Ultracold Atoms</a> at Physikzentrum, Bad Honnef, Germany (Dec 14-18, 2025)
 - <a href="https://www.pks.mpg.de/qudyn25" target="_blank" rel="noopener noreferrer">New frontiers in out-of-equilibrium quantum many-body dynamics</a> at MPIPKS, Dresden, Germany (Aug 11-15, 2025)
 - <a href="https://quantummatter.at/program-2/" target="_blank" rel="noopener noreferrer">Quantum simulation with engineered dissipation</a> at Universitätszentrum Obergurgl (U. Innsbruck), Austria (Feb 16-22, 2025)
