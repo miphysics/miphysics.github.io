@@ -36,7 +36,7 @@ Download <a href="/assets/docs/CV_Mursalin.pdf" target="_blank" rel="noopener no
 
 ## Other interests
 - Literature
-- Chess [<a href="https://www.chess.com/member/mursachess" target="_blank" rel="noopener noreferrer">chess.com</a> <a href="https://lichess.org/@/mursachess" target="_blank" rel="noopener noreferrer">lichess</a>]
+- Chess [<a href="https://www.chess.com/member/mursachess" target="_blank" rel="noopener noreferrer">chess.com</a> | <a href="https://lichess.org/@/mursachess" target="_blank" rel="noopener noreferrer">lichess</a>]
 - <a href="https://www.instagram.com/mursalin_100" target="_blank" rel="noopener noreferrer">Photography</a>
 
 ---
