@@ -32,16 +32,3 @@ _Relevent publications_:
 - <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.106.024306" target="_blank" rel="noopener noreferrer">Phys. Rev. B 106, 024306 (2022)</a>: Nonequilibrium scalar field dynamics starting from Fock states: Absence of thermalization in one-dimensional phonons coupled to fermions, _Md Mursalin Islam_ and Rajdeep Sensarma
 
 ---
-
-# Teaching 
----
-I worked as a teaching assistant of the following courses:
-
-- Exercises in theoretical physics for secondary school teacher candidates (Summer sem. 2026) at University of Augsburg [Instructor: Dr. Marcus Kollar]
-- Exercises in theoretical physics for secondary school teacher candidates (Winter sem. 2025-26) at University of Augsburg [Instructor: Dr. Marcus Kollar]
-- Quantum Mechanics II (Spring sem. 2020) at TIFR, Mumbai [Instructor: Prof. Nilmani Mathur]
-- Statistical Physics I (Spring sem. 2019) at TIFR, Mumbai [Instructor: Prof. Kedar Damle]
-- Quantum Mechanics II (Spring sem. 2018) at TIFR, Mumbai [Instructor: Prof. Vikram Tripathi]
-
----
-
